@@ -1,0 +1,9 @@
+body {
+  background-color: #1652F0;
+}
+
+#logo {
+  display: block;
+  margin: 25vh auto 0;
+  width: 300px;
+}
